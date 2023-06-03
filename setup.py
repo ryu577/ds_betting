@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
-setup(name='graphing',
-      version='0.0.19',
-      url='https://github.com/ryu577/graphing',
+setup(name='ds_betting',
+      version='0.0.0',
+      url='https://github.com/ryu577/ds_betting',
       license='MIT',
-      author='Rohit Pandey',
+      author='Rohit Pandey, Shon Butani',
       author_email='rohitpandey576@gmail.com',
       description='Add static script_dir() method to Path',
       packages=find_packages(exclude=['tests']),
